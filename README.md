@@ -241,6 +241,7 @@ Completing this module enabled me to:
 ### 🍎 Munch Fruit Game
 >*"A strategic game where players guide a growing worm to eat fruit while avoiding walls. Difficulty escalates with each fruit consumed, challenging players to navigate increasingly complex scenarios."*
 
+
 ---
 
 ## 📌 References
@@ -251,4 +252,33 @@ Completing this module enabled me to:
    📧 Matthewsliam27@gmail.com  
 
 ---
+# STAR Method analysis
+
+**Situation:**
+As part of my second-semester work studies program, I was tasked with developing a comprehensive professional CV to showcase my qualifications and experience.
+
+**Task:**
+The assignment required me to:
+- Present my personal and professional background
+- Include complete contact information
+- Detail my educational qualifications
+- Highlight my key skills and technical competencies
+- Outline my career aspirations
+- Showcase relevant projects
+- Provide professional references
+
+**Action:**
+To fulfill these requirements, I:
+- Crafted a professional summary highlighting my initiative in projects and documentation processes
+- Included complete contact details (phone, email, and physical address)
+- Listed my secondary education at Pinelands High School and current studies at CPUT
+- Organized my skills into teamwork, leadership, and technical proficiencies
+- Created a skills matrix quantifying my experience with various programming languages and tools
+- Articulated my career objectives and professional goals
+- Described my "Munch Fruit" game development project
+- Provided contact information for professional references
+
+**Result:**
+The completed CV effectively presents my qualifications, demonstrating both my technical capabilities in application development and my professional approach to career documentation.
+
 
