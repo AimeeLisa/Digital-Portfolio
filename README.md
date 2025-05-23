@@ -170,6 +170,8 @@ Completing this module enabled me to:
 # CV Submission
 # Evidence
 ![CVSumission](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CVSubmission.png?raw=true)
+![CV1](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CV1.png?raw=true) 
+![CV1](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CV2.png?raw=true) 
 
 
 
