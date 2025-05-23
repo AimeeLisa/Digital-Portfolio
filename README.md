@@ -162,3 +162,86 @@ Completing this module enabled me to:
 - Understand how to effectively present my qualifications to potential employers
 - Develop skills to customize my CV for different work-study opportunities
 - Increase my confidence in applying for competitive internship positions
+
+
+# CV Submission
+
+# 📄 Aimee Lisa Paulus
+ 🎯 Application Development Student | CPUT
+
+---
+
+## 📞 Contact
+☎️ **Phone:** 066 204 7027  
+📧 **Email:** 2222814969@mycput.ac.za  
+🏠 **Address:** 14 Glenook Avenue, Wetton 7780  
+
+---
+
+## 👩‍💻 About Me
+> *"I am a passionate third-year Application Development student at CPUT with demonstrated leadership abilities. I thrive on taking initiative, fostering collaboration, and documenting processes. Eager to tackle challenging projects that expand my skills in software development and testing, I'm particularly excited to contribute to web development initiatives while growing my technical expertise in a professional environment."*
+
+---
+
+## 🎓 Education
+### 🏛 Pinelands High School  
+📜 **Matric Certificate** | 2017-2021  
+📚 *Subjects:* English HL, Afrikaans FAL, Mathematical Literacy, CAT, Life Sciences  
+
+### 🏫 Cape Peninsula University of Technology  
+💻 **Diploma: ICT in Applications Development** | 2022-Current  
+
+---
+
+## 💼 Career Objectives
+🔹 Seeking a position to enhance and develop my technical skills  
+🔹 Passionate about expanding software development knowledge  
+🔹 Excited to contribute uniquely to projects while learning software testing  
+
+---
+
+## ⚙️ Technical Skills Matrix
+| Skill Category       | Technology     | Duration | Proficiency | Last Used     |
+|----------------------|----------------|----------|-------------|---------------|
+| **📊 Databases**      | SQLite         | 3 months | Level 1     | Nov 2023      |
+| **👨‍💻 Programming**   | Java           | 12 months| Level 2     | Feb 2025      |
+|                      | Python         | 5 months | Level 1     | Nov 2023      |
+| **🌐 Web Dev**        | HTML           | 24 months| Level 1     | Nov 2022      |
+|                      | JavaScript     | 10 months| Level 1     | Nov 2022            |
+|                      | CSS            | 8 months | Level 1     | Sep 2022           |
+| **🛠️ Tools**         | Google Docs    | 24 months| Level 2     | Nov 2024      |
+|                      | NetBeans       | 20 months| Level 1     | Feb 2024      |
+|                      | IntelliJ       | 2 months | Level 1     | April 2025             |
+
+*Proficiency Scale: 1 (Training) → 5 (Expert)*
+
+---
+
+## 🏆 Soft Skills
+✅ **Leadership:**  
+   - 🖥️ Computer Lab Custodian (Pinelands High)  
+   - 🎓 Class Representative (CPUT 2023-2025)  
+
+✅ **Interpersonal:**  
+   - 💬 Excellent communication  
+   - 💡 Creative problem-solving  
+   - ⚡ Takes initiative  
+   - 🤝 Team collaboration  
+
+---
+
+## 🎮 Projects
+### 🍎 Munch Fruit Game
+>*"A strategic game where players guide a growing worm to eat fruit while avoiding walls. Difficulty escalates with each fruit consumed, challenging players to navigate increasingly complex scenarios."*
+
+---
+
+## 📌 References
+🔹 **Razia Abrahams**  
+   📧 raziaabrahams@gmail.com  
+
+🔹 **Liam Matthews**  
+   📧 Matthewsliam27@gmail.com  
+
+---
+
