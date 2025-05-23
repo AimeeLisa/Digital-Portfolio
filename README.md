@@ -4,7 +4,7 @@
 
 I reviewed the Career Development Topic one slides and upon completion, took the correspoding quizzes and submitted them.
 
-![CareerDevelopment](Images/CareerDevelopment.png)
+
 ![Career Development](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CareerDevelopment.png?raw=true) 
 
 
@@ -38,7 +38,7 @@ This exercise helped me clarify my career aspirations and develop a structured a
 **Evidence:**
 
 I reviewed the Skills and Interests topic slides and upon completion, took the correspoding quizzes and submitted them.
-![SkillsAndInterest](Images/SkillsAndInterests.png)
+![SkillsAndInterests](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/SkillsAndInterests.png?raw=true)
 
 **Situation:**
 To prepare for my second-semester work studies, I completed the Skills and Interests module, which focused on self-assessment and aligning personal strengths with workplace expectations.
@@ -78,7 +78,6 @@ This reflection has better prepared me to articulate my skills and adapt to prof
 **Evidence**
 
 I reviewed the Personality Assessment topic  slides and upon completion, took the correspoding quizzes and submitted them.
-![PersonalityAssessment](Images/PersonalityAssessment.png)
 ![CV Creation](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/PersonalityAssessment.png?raw=true)
 
 **Situation**  
@@ -125,7 +124,6 @@ This module:
 **Evidence:**
 
 I reviewed the Create a CV Topic slides and upon completion, took the correspoding quizzes and submitted them.
-![CreateACV](Images/CreateACV.png)
 ![CV Creation](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CreateACV.png?raw=true) 
 
 
