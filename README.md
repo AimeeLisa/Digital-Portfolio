@@ -5,6 +5,8 @@
 I reviewed the Career Development Topic one slides and upon completion, took the correspoding quizzes and submitted them.
 
 ![CareerDevelopment](Images/CareerDevelopment.png)
+![Career Development](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CareerDevelopment.png?raw=true) 
+
 
 
 
@@ -77,6 +79,7 @@ This reflection has better prepared me to articulate my skills and adapt to prof
 
 I reviewed the Personality Assessment topic  slides and upon completion, took the correspoding quizzes and submitted them.
 ![PersonalityAssessment](Images/PersonalityAssessment.png)
+![CV Creation](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/PersonalityAssessment.png?raw=true)
 
 **Situation**  
 As part of my preparation for second-semester work studies, I engaged in a Personality Assessment module designed to evaluate my inherent traits and their alignment with potential career paths.  
@@ -123,6 +126,8 @@ This module:
 
 I reviewed the Create a CV Topic slides and upon completion, took the correspoding quizzes and submitted them.
 ![CreateACV](Images/CreateACV.png)
+![CV Creation](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CreateACV.png?raw=true) 
+
 
 
 **Situation:**
