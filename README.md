@@ -252,7 +252,7 @@ Completing this module enabled me to:
    📧 Matthewsliam27@gmail.com  
 
 ---
-# STAR Method analysis
+# STAR Method analysis for Cv submission
 
 **Situation:**
 As part of my second-semester work studies program, I was tasked with developing a comprehensive professional CV to showcase my qualifications and experience.
