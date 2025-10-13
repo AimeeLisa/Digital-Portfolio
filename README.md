@@ -283,4 +283,38 @@ To fulfill these requirements, I:
 **Result:**
 The completed CV effectively presents my qualifications, demonstrating both my technical capabilities in application development and my professional approach to career documentation.
 
+# Business Communication
+**Evidence:**
+**Situation:**
+**Task:**
+**Action:**
+**Result:**
+
+# Interview Skills
+**Evidence:**
+**Situation:**
+**Task:**
+**Action:**
+**Result:**
+
+# Mock Interview
+**Evidence:**
+**Situation:**
+**Task:**
+**Action:**
+**Result:**
+
+# Professional networking
+**Evidence:**
+**Situation:**
+**Task:**
+**Action:**
+**Result:**
+
+# Cworkplace etiquette
+**Evidence:**
+**Situation:**
+**Task:**
+**Action:**
+**Result:**
 
