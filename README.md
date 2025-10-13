@@ -311,7 +311,7 @@ The completed CV effectively presents my qualifications, demonstrating both my t
 **Action:**
 **Result:**
 
-# Cworkplace etiquette
+# Workplace etiquette
 **Evidence:**
 **Situation:**
 **Task:**
