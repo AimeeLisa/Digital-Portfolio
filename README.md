@@ -307,28 +307,92 @@ As a result of this module, I have developed a better understanding of effective
 
 # Interview Skills
 **Evidence:**
+I completed the Interview skills topic slides and upon completion, took the correspoding quizzes and submitted them.
+![Interview Skills](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/InterviewSkills.PNG?raw=true) 
+
 **Situation:**
+For my work studies, prior to my second semester, I had to complete the interview skills module.
+
 **Task:**
+The purpose of the module was to understand the function of an interview for employment, methods of interviewing used, why it is important that I prepare a company beforehand for the interview and how to answer interview questions.
+
 **Action:**
+Through this module, I have gained a better understanding on:
+
+From this module, I have learned more about:
+
+- **Purpose of a job interview:** A job interview helps decide who is most suitable for a job. In an interview, the candidate is questioned about himself/herself and the reasons why he/she seems to be the right person for the vacant job of the company.
+-  **Application of CAR method in interviews:** I experimented with using the CAR (Challenge, Action, Result) method, a structured method for answering behavioral interview questions. The method allows candidates to brief their experiences and present problem-solving ability.
+-  **Why pre-interview research about a company is necessary:** The importance of company research before an interview is to gain knowledge of the company's values, mission, and current news. This allows candidates to tailor answers and show interest.
+-  **How to answer the interview question "Tell me about yourself":** To answer this common interview question successfully, I should state my experience, my greatest accomplishments, and how they are relevant to the job for which I am applying.
+-  **The best response if asked to give your biggest weakness:**  I found that the best approach when asked about my greatest weakness is to showcase the importance of honesty while also detailing steps taken in order to rectify it.
+
+
 **Result:**
+Through this module, I have learned to appreciate much more the interview process and being able to present myself effectively. Although I have not yet applied these skills in a real interview, I feel better prepared and more confident in my capability to conduct interviews successfully. This knowledge will certainly make me a stronger candidate as I embark on my job search and look for opportunities in my chosen profession.
 
 # Mock Interview
+
 **Evidence:**
+As part of my preparation for securing a second-semester work-study internship, I created a mock interview video and uploaded it to BlackBoard.
+
+![Mock Interview](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/MockInterview.PNG?raw=true)
+
+[Mock Interview Video](https://github.com/AimeeLisa/PRP-3-/blob/main/aimee-paulus-222814969-mock-interview_RFUw7Of4.mp4)
+
+described myself, career objectives, how i set my goals, highest level of education, which software tools i use, whaty is the biggest issue in this field, answer 
+
+
 **Situation:**
+I was assigned to create a video of a mock interview in practice of having a job intervbiew in the second semester.
+
 **Task:**
+In preparation for the second semester. I was required to create a mock interview video where I answered practice interview questions such as: " How would you describe yourself?", "What are your career objectives?", " How do you set goals?", "What is your highest level of education?", " What software tools do you use?", "what is the biggest issue in the field of work" and a random question.
+
 **Action:**
+In my mock interview video, I answered questions such as:
+
+- **How would you describe yourself:** I answered this by describing my personality and how i am a hard workerI shared insights about my personality, emphasizing that I am a hard worker and dedicated to achieving my goals.
+- **What are your career objectives:**  I spoke about my career objectives, expressing my eagerness to learn more about software development and testing, and how I aim to continually improve my skills in these areas.
+- **How do you set goals:** I explained my goal-setting process, detailing how I break down my objectives into actionable steps, create a plan for completion, and establish a timeframe to achieve them.
+- **What is my highest level of education:** I spoke about my matric certificate and what highschool I attended. 
+
 **Result:**
+As a result of creating this mock interview video, I developed greater confidence in my ability to articulate my thoughts during an interview. This exercise helped me better my responses to common interview questions, making me more prepared for real-life interviews. Additionally, the experience provided valuable practice in presenting myself professionally, which will aid me in my job search and future career endeavors. Overall, I feel more equipped to showcase my skills and aspirations effectively to potential employers.
+
+
 
 # Professional networking
+
 **Evidence:**
+As part of my preparation for second-semester, I completed the professional networking slides and quizzes.
+![Professional Networking](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/ProfessionalNetworking.PNG?raw=true)
+
 **Situation:**
+ It was required to complete the professional networking module.
+
 **Task:**
+In prepartion for my internship in the second semester, I was needing to complete the professional networking module and quizzes.
+
 **Action:**
+After completing this module and it'sa quizzes, I learnt how about:
+
+- **Purpose of professional networking:** I learned that professional networking is essential for building relationships that can lead to job opportunities, collaborations, and mentorship. It helps individuals expand their professional circles and gain industry insights.
+- **What network event refers to:** I discovered that networking events are organized gatherings where professionals can meet, share ideas, and establish connections. These events can take many forms, such as conferences, workshops, and informal meetups.
+- **The golden rule of networking** The golden rule of networking is to focus on building genuine relationships rather than just seeking immediate benefits. This approach fosters trust and mutual support in professional interactions
+- **The first step to creating a professional network:** The first step in creating a professional network is to identify and reach out to indviduals within my field of interest. This involves leveraging existing connections and being proactive in seeking new ones.
+
 **Result:**
+As a result of completing the professional networking module, I now have a clearer understanding of how to effectively network within my industry. I feel more confident in my ability to engage with professionals and build meaningful relationships that will support my career development. This knowledge has helped me in my current internship.
 
 # Workplace etiquette
+
 **Evidence:**
+To prepare for my internship in my second semester, I completed the workplace ettiquette module and its quizzes. 
+![Workplace etiquette](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/WorkplaceEtiqutte.PNG?raw=true)
+
 **Situation:**
+I was required to complete the workplace etiquette module along with the module's quizzes.
 **Task:**
 **Action:**
 **Result:**
