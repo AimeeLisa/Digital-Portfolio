@@ -285,10 +285,24 @@ The completed CV effectively presents my qualifications, demonstrating both my t
 
 # Business Communication
 **Evidence:**
+I reviewed the Business communication topic slides and upon completion, took the correspoding quizzes and submitted them.
+![Business Communication](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/BusinessCommunication.PNG?raw=true) 
+
 **Situation:**
+In preparation for my work studies during my second semester, I was required to complete the business communication section.
+
 **Task:**
+The objective of the module was to develop a solid understanding of effective business communication practices, ensuring that I could articulate ideas clearly and maintain professionalism in various communication forms.
+
 **Action:**
+Through this module I gained knowledge on:
+-**Purpose of Business Communication:** I learned that the primary purpose of business communication. It is important for members of an organisation to share information, their ideas and feelings. This promotes clear understandings, encourages social connections, improves cooperation and supports personal growth.
+- **Formal langauge:** I learned about the required formal language that should be used in a business
+- **Email tone:**  I was reminded of the recommended tone used for business emails
+- **Virtual background practice:** I was informed about the recommended practices for a virtual backgroaund.
+  
 **Result:**
+As a result of this module, I have developed a better understanding of effective business communication. Although I have not yet applied all these skills in practice, the knowledge I acquired has prepared me to communicate more effectively in future professional settings. I feel more confident in my ability to engage with colleagues and convey messages clearly, encouraging a collaborative work environment.
 
 # Interview Skills
 **Evidence:**
