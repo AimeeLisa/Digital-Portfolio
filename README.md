@@ -340,8 +340,6 @@ As part of my preparation for securing a second-semester work-study internship, 
 
 [Mock Interview Video](https://github.com/AimeeLisa/PRP-3-/blob/main/aimee-paulus-222814969-mock-interview_RFUw7Of4.mp4)
 
-described myself, career objectives, how i set my goals, highest level of education, which software tools i use, whaty is the biggest issue in this field, answer 
-
 
 **Situation:**
 I was assigned to create a video of a mock interview in practice of having a job intervbiew in the second semester.
@@ -375,7 +373,7 @@ As part of my preparation for second-semester, I completed the professional netw
 In prepartion for my internship in the second semester, I was needing to complete the professional networking module and quizzes.
 
 **Action:**
-After completing this module and it'sa quizzes, I learnt how about:
+After completing this module and it's quizzes, I learnt how about:
 
 - **Purpose of professional networking:** I learned that professional networking is essential for building relationships that can lead to job opportunities, collaborations, and mentorship. It helps individuals expand their professional circles and gain industry insights.
 - **What network event refers to:** I discovered that networking events are organized gatherings where professionals can meet, share ideas, and establish connections. These events can take many forms, such as conferences, workshops, and informal meetups.
@@ -389,11 +387,21 @@ As a result of completing the professional networking module, I now have a clear
 
 **Evidence:**
 To prepare for my internship in my second semester, I completed the workplace ettiquette module and its quizzes. 
-![Workplace etiquette](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/WorkplaceEtiqutte.PNG?raw=true)
+![Workplace Etiquette](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/WorkplaceEtiquette.PNG?raw=true)
 
 **Situation:**
 I was required to complete the workplace etiquette module along with the module's quizzes.
-**Task:**
-**Action:**
-**Result:**
 
+**Task:**
+To prepare for my internship in the second semester, I was tasked with completing the work etiquette module along with its quizzes.
+**Action:**
+After completing this module and it's quizzes, I gainede knowledge in:
+
+- **How to deal with an email that has a rude/offensive tone:**  I learned the importance of maintaining composure and responding in a professional manner and to rather focusing on resolving issues instead of escalating conflicts.
+- **Arrival time for meetings:** The expectation of arriving a few minutes early to show respect for others' time and to ensure a smooth start to discussions.
+- **How to handle confidential information:** Understanding the significance of discretion and the protocols for sharing sensitive information, ensuring that I maintain trust and security in the workplace.
+- **When its acceptable yo use your cell phone at work:** Recognizing the appropraite times for phone use, such as during breaks or emergencies. The importance of prioritising work responsibilities during meetings and during tasks. 
+- **What to do when needing to leave work early for a personal reason:** The importance of communicating with my supervisor in advance and providing a valid reason to pr4actice professionalism and be held accountable. 
+
+**Result:**
+Completing the workplace etiquette module has helped me with essential skills for navigating workplace interactions. I feel more prepared to contribute positively to my future work environment, making sure that I am professional and respectfully during my interactions at my internship.
