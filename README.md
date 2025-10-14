@@ -296,6 +296,7 @@ The objective of the module was to develop a solid understanding of effective bu
 
 **Action:**
 Through this module I gained knowledge on:
+
 -**Purpose of Business Communication:** I learned that the primary purpose of business communication. It is important for members of an organisation to share information, their ideas and feelings. This promotes clear understandings, encourages social connections, improves cooperation and supports personal growth.
 - **Formal langauge:** I learned about the required formal language that should be used in a business
 - **Email tone:**  I was reminded of the recommended tone used for business emails
