@@ -170,8 +170,6 @@ Completing this module enabled me to:
 # CV Submission
 # Evidence
 ![CVSumission](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CVSubmission.png?raw=true)
-![CV1](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CV1.png?raw=true) 
-![CV1](https://github.com/AimeeLisa/Digital-Portfolio/blob/main/CV2.png?raw=true) 
 
 
 
@@ -183,7 +181,7 @@ Completing this module enabled me to:
 ## 📞 Contact
 ☎️ **Phone:** 066 204 7027  
 📧 **Email:** 2222814969@mycput.ac.za  
-🏠 **Address:** 14 Glenook Avenue, Wetton 7780  
+
 
 ---
 
